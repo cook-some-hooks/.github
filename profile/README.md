@@ -1,12 +1,13 @@
-## Hi there 👋
+# Cook Some Hook
 
-<!--
+Welcome to the **Cook Some Hook** GitHub organization! This organization is dedicated to creating and maintaining AI hooks for Uniswap using the Claude API and Galedral onchain LLM. Our goal is to ensure that each hook is verified to prevent spam and malicious activities, providing a secure and efficient environment for deploying smart contracts.
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Cook Some Hook is a project focused on integrating AI with Uniswap through the use of AI hooks. These hooks are designed to enhance the functionality of Uniswap by leveraging the power of artificial intelligence. Our hooks are verified for security and legitimacy to prevent spam and malicious code.
+
+## Features
+
+- **AI-Driven Hooks:** Utilize AI to create intelligent hooks for Uniswap.
+- **Security Verification:** Every hook is validated by AI to detect and prevent malicious code.
+- **World App Integration:** Map each deployer to ensure traceability and verification, reducing the risk of spam.
